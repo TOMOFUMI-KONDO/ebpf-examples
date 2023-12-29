@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "bpf_helpers.h": "c",
+        "bpf.h": "c"
+    }
+}
